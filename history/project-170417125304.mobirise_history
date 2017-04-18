@@ -24,11 +24,16 @@
       }
     },
     "scrollAnimation": "true",
+    "publishType": "github",
+    "publishPath": "file:///F:/V3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 0
+    "uniqCompNum": 0,
+    "publishFtpPath": "public_html",
+    "gitHubName": "bnsptechnology",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
