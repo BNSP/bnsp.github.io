@@ -739,7 +739,7 @@
           "title": "NOUS CONTACTER",
           "subtitle": "Ecrivez nous dès à présent, nous repondrons dans l'immédiat&nbsp;",
           "form": {
-            "action": "info@bnsptechnology.com",
+            "action": "bnsptechnology@gmail.com",
             "alerts": {
               "success": "Méssage envové!"
             },
@@ -761,7 +761,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
@@ -799,7 +799,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Adresse</b></span></font><br>Libreville Gabon<br>Nzeng-Ayong<br><br><br>\n<strong>Contacts</strong><br>\nEmail: contact@bnsptechnology.com<br>\nPhone: +241 02233321&nbsp;<br><br>Mension légales: Copyright BNSP Technology 2017",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Adresse</b></span></font><br>Libreville Gabon<br>Nzeng-Ayong<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@bnsptechnology.com<br>\nPhone: +241 02233321&nbsp;<br><br>Mension légales: Copyright BNSP Technology 2017",
           "text2": ""
         }
       ]
