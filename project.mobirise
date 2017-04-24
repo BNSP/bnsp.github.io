@@ -105,7 +105,7 @@
             "fontColor": "#41a85f",
             "fontHoverColor": "#c0a375",
             "transparent": true,
-            "sticky": false,
+            "sticky": true,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
