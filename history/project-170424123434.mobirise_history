@@ -24,11 +24,16 @@
       }
     },
     "scrollAnimation": "true",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 0
+    "uniqCompNum": 0,
+    "publishFtpPath": "public_html",
+    "gitHubName": "bnsptechnology",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -105,7 +110,7 @@
             "fontColor": "#41a85f",
             "fontHoverColor": "#c0a375",
             "transparent": true,
-            "sticky": false,
+            "sticky": true,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -170,8 +175,8 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"index.html#buttons1-2\" data-toolbar=\"-mbrBtnMove\">DECOUVREZ NOTRE TEAM</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1206.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -202,7 +207,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"index.html#buttons1-2\" data-toolbar=\"-mbrBtnMove\">NOS FORMATIONS EN UN CLICK</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/blur-1867997-19201920x1276-197-2000x1329-84.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -741,7 +746,7 @@
           "form": {
             "action": "info@bnsptechnology.com",
             "alerts": {
-              "success": "Méssage envové!"
+              "success": "Accusé de reception: méssage envové!"
             },
             "fields": {
               "name": {
