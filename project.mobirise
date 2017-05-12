@@ -34,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "BNSP TECHNOLOGY",
+        "meta_descr": "BNSP TECHNOLOGY application et web development",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -327,7 +327,7 @@
             }
           },
           "title3": "GRAPHISME",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": " ",
           "caption3": "Vous avez besoin d'un logo attractif, d'une carte de visite personalisée, d'une affiche publicitaire, d'un quelconque design? Notre Team vous les taillerons sur mesure.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">En savoir plus...</a> ",
           "media4": {
@@ -344,7 +344,7 @@
             }
           },
           "title4": "FORMATIONS",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": " ",
           "caption4": "Vous voulez découvrir l'outil informatique, apprendre à manipuler des logiciels de bureautique, vous lancer dans la programmation, arriver à réaliser des sites web? C'est possible chez nous.",
           "button4": "<a data-app-btn=\"true\" href=\"index.html#header3-2\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">En savoir plus...</a>",
           "media5": {
@@ -358,7 +358,7 @@
             }
           },
           "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
+          "subtitle5": " ",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
@@ -741,7 +741,7 @@
           "form": {
             "action": "bnsptechnology@gmail.com",
             "alerts": {
-              "success": "Méssage envové!"
+              "success": "Méssage Envoyé!"
             },
             "fields": {
               "name": {
